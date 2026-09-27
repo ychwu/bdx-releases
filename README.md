@@ -1,4 +1,4 @@
-# BDX Tracker releases
+# BDX releases
 
 This public repository is the stable distribution location for BDX Tracker Windows installers, update manifests and release notes.
 
